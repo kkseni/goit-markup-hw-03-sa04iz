@@ -209,12 +209,12 @@ a {
 
 .features-item {
   width: calc((100% - 3 * 24px) / 4);
-  padding: 120px 0;
 }
 
 .features-section {
   display: flex;
   align-items: center;
+  padding: 120px 0;
 }
 
 .team-item {
@@ -325,6 +325,10 @@ a {
   background-color: #2e2f42;
 }
 
+.footer-container {
+  padding: 100px 0;
+}
+
 .footer-logo,
 .logo-part {
   font-family: "Raleway", sans-serif;
@@ -354,4 +358,6 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  width: 264px;
+  padding-top: 16px;
 }
