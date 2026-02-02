@@ -205,6 +205,10 @@ a {
   gap: 24px;
 }
 
+.features-content {
+  padding-top: 8px;
+}
+
 .features-item {
   width: calc((100% - 3 * 24px) / 4);
 }
@@ -312,6 +316,7 @@ a {
 .portfolio-item {
   width: 360px;
 }
+
 img {
   display: block;
 }
